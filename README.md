@@ -7,11 +7,19 @@ https://school.runteq.jp/v3/books/1/chapter/1
   ```
   docker compose run --rm app bash
   ```
+修了方法
+```
+exit
+```
 
-# 対話形式での実行
+# bashに入った後の実行方法
+## 対話形式での実行
 `irb`
 修了方法
 `exit`
 
-# Rubyスクリプトファイルの実行
+## Rubyスクリプトファイルの実行
 `ruby chapter1/example.rb`
+
+## javaの動作確認方法
+bashに入った後に、`javac`コマンドや`java`コマンドの利用可能
