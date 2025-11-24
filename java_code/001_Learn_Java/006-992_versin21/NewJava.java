@@ -1,0 +1,3 @@
+void main(){
+  System.out.println("Java21‚ðŠy‚µ‚à‚¤!");
+}
